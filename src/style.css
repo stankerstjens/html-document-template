@@ -1,0 +1,20 @@
+
+body {
+    background-color: black;
+    height: 100%;
+}
+
+.content {
+    background-color: white;
+    max-width: 700px;
+    min-height: 100%;
+    font-size: 1em;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.MathJax[display] {
+    display: block;
+    text-align: center;
+}
+
